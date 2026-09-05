@@ -1,5 +1,6 @@
 # Excel_Project-Data_Analytics  
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+<img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/ab887be8-47e8-463b-a912-53b4286fa645" />
+
 
 ## Introduction
 
