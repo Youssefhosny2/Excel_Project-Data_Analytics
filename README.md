@@ -1,5 +1,4 @@
-# Excel_Project-Data_Analytics
-My project demonstrating my Excel skills
+# Excel_Project-Data_Analytics  
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
